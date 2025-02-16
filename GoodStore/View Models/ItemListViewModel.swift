@@ -2,7 +2,7 @@
 //  ItemListViewModel.swift
 //  GoodStore
 //
-//  Created by Fabrizio Giuliano Stocco Ver 25.001.10 2025.01.10.
+//  Created by Fabrizio Giuliano Stocco Ver 25.002.16 2025.02.16.
 //
 
 import Foundation
