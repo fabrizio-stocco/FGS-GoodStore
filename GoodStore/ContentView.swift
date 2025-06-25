@@ -2,7 +2,7 @@
 //  ContentView.swift
 //  GoodStore
 //
-//  Created by Fabrizio Giuliano Stocco Ver 25.004.27 2025.04.27.
+//  Created by Fabrizio Giuliano Stocco Ver 25.006.26 2025.06.26
 //
 
 import SwiftUI
